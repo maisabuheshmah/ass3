@@ -1,0 +1,66 @@
+img{
+   
+  height: 180px;
+   width: 240px;
+
+}
+h1{
+    margin-left: 50px;
+    text-decoration-line: underline;
+    text-decoration-color: blue;
+}
+.iphone1,.iphone2,.iphone3,.iphone4{
+    float:left;
+    margin-left: 30px;
+    border: 3px solid;
+    width: 25%px;
+    height: 303px;
+
+}
+.iphone5,.iphone6,.iphone7,.iphone8{
+    float:left;
+    margin-left: 30px;
+    margin-top: 30px;
+    border: 3px solid;
+    width: 25%px;
+    height: 303px;
+
+}
+
+h2{
+  margin-left:20px;
+  margin-top: 0px;
+ padding: 0;
+
+}
+.green{
+    color: green;
+display: inline;
+margin: 0;
+}
+.red{
+    margin: 0;
+    color: red;
+   font-size: 15px;
+  text-decoration: line-through;
+  display: block;
+ 
+}
+.green,.red{
+    float: left;
+}
+.button1{
+    background-color: blue;
+    width:88%;
+    display: inline;
+    padding: 0;
+}
+.button2{
+    border-color: blue;
+    width: 10%;
+    padding: 0;
+}
+
+.clearfix{
+    clear: left;
+}
